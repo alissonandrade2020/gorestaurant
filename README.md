@@ -48,8 +48,6 @@
 ```bash
 $ git clone https://github.com/alissonandrade2020/gorestaurant.git
 
-$ cd gorestaurantmobile
-
 ```
 
 ## Descrição:
