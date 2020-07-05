@@ -46,7 +46,7 @@
 **Cloning the Repository**
 
 ```bash
-$ git clone https://github.com/andrewmatheus/gorestaurantmobile.git
+$ git clone https://github.com/alissonandrade2020/gorestaurant.git
 
 $ cd gorestaurantmobile
 
