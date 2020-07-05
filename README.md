@@ -52,58 +52,60 @@ $ cd gorestaurantmobile
 
 ```
 
-### Running
+## Descrição:
 
-> Install Dependencies
-```bash
-  yarn 
-```
+Autor: Alisson de Andrade Araujo"
 
-> Localhost Server Api fake
+<h1 align="center">
+    <img alt="Aircnc" title="#delicinha" src="https://avatars3.githubusercontent.com/u/39311340?s=400&u=f8570819489cb64bb45dfbfb85f2a82f1b56d11f&v=4" width="250px" />
+</h1>
 
-```bash
-  yarn json-server server.json -p 3333  
-```
+ - [Linkedin](https://www.linkedin.com/in/alisson-de-andrade-ara%C3%BAjo-160224190)
 
-> Running Android
+- [Instagram](https://www.instagram.com/alissonandradercc)
 
-```bash
-  yarn android
-```
+- [Github](https://github.com/alissonandrade2020/)
 
-## :hammer: Built With
+## CONHEÇA MAIS SOBRE O TRABALHO E CONHECIMENTO DO DEV(ALISSON DE Andrade Araújo):
 
-- [react native](https://reactnative.dev/docs/getting-started)
-- [yarn](https://yarnpkg.com/)
-- [eslint](https://eslint.org/)
-- [prettier](https://prettier.io/)
-- [typescript](https://www.typescriptlang.org/docs/home.html)
-- [jest](https://jestjs.io/)
-- [axios](https://github.com/axios/axios)
-- [jsonserver](https://github.com/typicode/json-server)
-- [styled components](https://styled-components.com/)
-- [VS Code](https://code.visualstudio.com/)
+ - [Curriculum - Alisson de Andrade Araújo](https://alissonandradesistema.000webhostapp.com/curriculo/)
 
-...
+- [Site de Apresentação de Alisson de Andrade Araújo](http://alissondeandradearaujo.000webhostapp.com)
+
+ - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com/)
+ 
+ - [Ecoleta](https://alisssonecoleta.herokuapp.com/)
+
+ - [Covid-19 - Salgado de São Félix - PB](https://salgadodesaofelixcovid19.netlify.app/)
+ 
+ - [Covid-19](https://alissonandradesistema.000webhostapp.com/covid-19/)
+ 
+  - [Féliz Aniversário](https://alissonandradesistema.000webhostapp.com/felizaniversario/)
   
-## :art: Demo
+  - [Féliz Dia das Mães](https://alissonandradesistema.000webhostapp.com/felizdiadasmaes/)
 
-<p display:"flex" align="center">
-  <img src="https://github.com/andrewmatheus/gorestaurantmobile/blob/master/login.jpg" width="200" height="600">
-  <img src="https://github.com/andrewmatheus/gorestaurantmobile/blob/master/dashboard.jpg" width="200" height="600">
-  <img src="https://github.com/andrewmatheus/gorestaurantmobile/blob/master/pedidos.jpg" width="200" height="600">
-  <img src="https://github.com/andrewmatheus/gorestaurantmobile/blob/master/favorites.jpg" width="200" height="600">  
-</>  
+ - [Féliz Páscoa](https://alissonandradesistema.000webhostapp.com/felizpascoa)
+ 
+  - [Clone do Netflix](https://alissonandradesistema.000webhostapp.com/netflixclone/)
+    
+  - [Clone do Discord](https://alissondiscord.netlify.app/)
 
-![TestsChallenge](https://github.com/andrewmatheus/gorestaurantmobile/blob/master/imgTests.png)
+- [Sitestema de Cadastro de Empresas - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/react/)
 
-## :mailbox: Contacts
+ - [Sistema de Achar Dev's pelo GitHub - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/reactnative)
 
-Email: andrewmatheus@gmail.com
+- [Sistema de Achar Dev's pelo GitHub - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/reactnativetindev)
 
-Connect with me at [LinkedIn](https://www.linkedin.com/in/andrew-cabral-developer/).
+- [Simulação de Loja Virtual](https://alissonandradesistema.000webhostapp.com/temadark)
+ 
+- [Site e sistema de loja virtual - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/lojavirtual)
 
-## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/andrewmatheus/gobaber11/blob/master/LICENSE) for more information.
-  
-------------------
+- [Site e sistema - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/sistemas/)
+
+- [Sistema de Cadastro de Sala para alugar espaço para reuniões de empresas - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/reactnativeaircnc)
+
+- [Sitestema de Apresentação do Trabalho ESAT/ESPEP - cadastro de alunos](https://alissondeaaraujo.000webhostapp.com/index.html)
+
+- [Site de Apresentação 2 de Alisson de Andrade Araújo](https://alissodeaaraujo.000webhostapp.com/index.html)
+
+:vulcan_salute::vulcan_salute: ***OBRIGADO PELO CARINHO E ATENÇÃO !!***  :vulcan_salute::vulcan_salute:
